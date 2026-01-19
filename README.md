@@ -72,6 +72,7 @@ This project demonstrates how financial market data can be transformed into acti
 ---
 
 ## Project Structure
+'''
 NYSE-Market-Performance-Analysis/
 │
 ├── notebooks/
@@ -91,7 +92,7 @@ NYSE-Market-Performance-Analysis/
 │   └── dashboard_sector_risk.png
 │
 └── README.md
-
+'''
 
 ---
 
