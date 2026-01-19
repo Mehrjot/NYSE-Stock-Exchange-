@@ -72,22 +72,26 @@ This project demonstrates how financial market data can be transformed into acti
 ---
 
 ## Project Structure
-NYSE-Market-Performance-Analysis
+NYSE-Market-Performance-Analysis/
 │
-├── notebooks
-│   ├── data_preparation.ipynb
-│   ├── kpi_analysis.ipynb
-│   ├── market_trends.ipynb
-│   ├── sector_risk_analysis.ipynb
+├── notebooks/
+│   ├── 01_data_preparation.ipynb
+│   ├── 02_kpi_analysis.ipynb
+│   ├── 03_market_trends.ipynb
+│   └── 04_sector_risk_analysis.ipynb
 │
-├── powerbi
+├── powerbi/
 │   └── nyse_dashboard.pbix
 │
-├── images
+├── data/
+│   └── dataset_source.txt
+│
+├── images/
 │   ├── dashboard_overview.png
 │   └── dashboard_sector_risk.png
 │
 └── README.md
+
 
 ---
 
